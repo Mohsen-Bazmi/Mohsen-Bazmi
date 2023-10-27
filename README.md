@@ -50,7 +50,8 @@
 <br>
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>](https://www.linkedin.com/in/Mohsen-Bazmi)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg"  width="40"/>](https://twitter.com/mohsenbazmi)
-            
+[<img src="https://www.cdnlogo.com/logos/g/68/gmail.svg"  width="40"/>](mailto:Mohsen.Bazmi@gmail.com)
+
 <!--
 **Mohsen-Bazmi/Mohsen-Bazmi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
