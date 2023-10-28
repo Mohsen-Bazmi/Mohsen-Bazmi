@@ -4,29 +4,29 @@
 <h3>🔧 Tools and programming languages </h3>
 
 <div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" /> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" /> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="40" /> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" />    
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg" height="40" />    
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="40" />  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original-wordmark.svg" height="40" />   
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original-wordmark.svg" height="40" /> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fsharp/fsharp-original.svg" height="40" />       
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original-wordmark.svg" height="40" />       
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" height="40" />       
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" height="40" />       
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/couchdb/couchdb-original-wordmark.svg" height="40" />       
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" height="40" />       
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" height="40" />       
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" />       
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" />       
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" />     
-  <img src="https://www.cdnlogo.com/logos/o/44/openapi-wordmark.svg" height="40"/>
-  <img src="https://www.cdnlogo.com/logos/r/32/rabbitmq.svg" height="40"/>
+  <img alt="Csharp" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" />
+  <img alt="Dotnetcore" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" />
+  <img alt="Go" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" />
+  <img alt="Nodejs" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" /> 
+  <img alt="Javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" /> 
+  <img alt="Typescript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="40" /> 
+  <img alt="Jest" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" />    
+  <img alt="Mocha" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg" height="40" />    
+  <img alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="40" />  
+  <img alt="Angularjs" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original-wordmark.svg" height="40" />   
+  <img alt="Apachekafka" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original-wordmark.svg" height="40" /> 
+  <img alt="Fsharp" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fsharp/fsharp-original.svg" height="40" />       
+  <img alt="Scala" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original-wordmark.svg" height="40" />       
+  <img alt="Microsoftsqlserver" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" height="40" />       
+  <img alt="Postgresql" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" height="40" />       
+  <img alt="Couchdb" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/couchdb/couchdb-original-wordmark.svg" height="40" />       
+  <img alt="Mongodb" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" height="40" />       
+  <img alt="Nextjs" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" height="40" />       
+  <img alt="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" />       
+  <img alt="Linux" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" />       
+  <img alt="Bash" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" />     
+  <img alt="Openapi" src="https://www.cdnlogo.com/logos/o/44/openapi-wordmark.svg" height="40"/>
+  <img alt="Rabbitmq" src="https://www.cdnlogo.com/logos/r/32/rabbitmq.svg" height="40"/>
 </div>
 <br>
 <br>
@@ -50,10 +50,10 @@
 <div align="center">
 
 
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>](https://www.linkedin.com/in/Mohsen-Bazmi)
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg"  width="40"/>](https://twitter.com/mohsenbazmi)
-[<img src="https://www.cdnlogo.com/logos/g/68/gmail.svg"  width="40"/>](mailto:Mohsen.Bazmi@gmail.com)
-[<img src="https://cdn.sstatic.net/Sites/stackoverflow/Img/favicon.ico?v=ec617d715196"  width="40"/>](https://stackoverflow.com/users/514329/mohsen)
+[<img alt="Mohsen Bazmi's Linkedin" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>](https://www.linkedin.com/in/Mohsen-Bazmi)
+[<img alt="Mohsen Bazmi's Twitter" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg"  width="40"/>](https://twitter.com/mohsenbazmi)
+[<img alt="Mohsen Bazmi Gmail" src="https://www.cdnlogo.com/logos/g/68/gmail.svg"  width="40"/>](mailto:Mohsen.Bazmi@gmail.com)
+[<img alt="Mohsen Bazmi Stackoverflow" src="https://cdn.sstatic.net/Sites/stackoverflow/Img/favicon.ico?v=ec617d715196"  width="40"/>](https://stackoverflow.com/users/514329/mohsen)
 
 </div>
 
@@ -66,8 +66,8 @@
 </p>
 
 <div align="center">
-<p><img height="195px" width="487px" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mohsen-Bazmi&show_icons=true&locale=en&layout=compact" alt="Mohsen-Bazmi" /></p>
-<p><img  src="https://github-readme-stats.vercel.app/api?username=Mohsen-Bazmi&show_icons=true&locale=en" alt="Mohsen-Bazmi" /></p>
+<p><img height="195px" width="487px" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mohsen-Bazmi&show_icons=true&locale=en&layout=compact" alt="Mohsen Bazmi's most used programming languages" /></p>
+<p><img alt="Mohsen Bazmi's status" src="https://github-readme-stats.vercel.app/api?username=Mohsen-Bazmi&show_icons=true&locale=en" /></p>
 </div>
 
 <!--
