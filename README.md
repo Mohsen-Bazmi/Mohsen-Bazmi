@@ -41,7 +41,7 @@
 
 🚀 I love learning and sharing.
 
-🎨 In my free time I 🎹 play the piano, 🚴‍♂️byce, 📚 read books, or 📺 watch courses.
+🎨 In my free time I 🎹 play the piano, 🚴‍♂️ride bicycle, 📚 read books, or 📺 watch courses.
 
 💬 Ask me about Test Driven Development, Domain Driven Design, Object Oriented, and Microservices.
 
