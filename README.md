@@ -56,6 +56,19 @@
 
 </div>
 
+<hr>
+
+
+
+<p align="center"> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Mohsen-Bazmi" alt="Mohsen-Bazmi" /></a> 
+</p>
+
+<div align="center">
+<p><img height="195px" width="487px" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mohsen-Bazmi&show_icons=true&locale=en&layout=compact" alt="Mohsen-Bazmi" /></p>
+<p><img  src="https://github-readme-stats.vercel.app/api?username=Mohsen-Bazmi&show_icons=true&locale=en" alt="Mohsen-Bazmi" /></p>
+</div>
+
 <!--
 **Mohsen-Bazmi/Mohsen-Bazmi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
